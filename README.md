@@ -1,2 +1,2 @@
 # Shop-Inventory-Management
-This project is made using concepts of JDBC(Java Database Connectivity), Servlets and JSP.
+In this project we mainly use the HTML, Servlet and JSP pages. Also the concept of SQL to handle the data between the shop and Warehouse. we are also generating the Bills and keeping the records of total sale.
